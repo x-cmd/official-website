@@ -7,4 +7,4 @@
   * @license MIT
   */
 
-/*! @docsearch/js 3.0.0-alpha.34 | MIT License | © Algolia, Inc. and contributors | https://docsearch.algolia.com */
+/*! @docsearch/js 3.0.0-alpha.42 | MIT License | © Algolia, Inc. and contributors | https://docsearch.algolia.com */
